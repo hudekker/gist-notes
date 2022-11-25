@@ -1,0 +1,17 @@
+tr:nth-child(even) {
+  background-color: lightgrey;
+}
+
+h2 {
+  padding-top: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.gist-file {
+  border: none !important;
+}
